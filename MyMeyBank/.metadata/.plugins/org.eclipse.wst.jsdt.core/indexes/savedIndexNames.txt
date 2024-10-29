@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\仓库\Java\JavaMVC\MyMeyBank\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3226221742.index
+30739265.index
+2112745437.index
+518035219.index
+2851465559.index
+1329802637.index

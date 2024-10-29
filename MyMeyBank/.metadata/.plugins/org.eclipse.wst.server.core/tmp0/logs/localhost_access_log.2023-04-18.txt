@@ -1,0 +1,11 @@
+127.0.0.1 - - [18/Apr/2023:16:15:07 +0800] "GET / HTTP/1.1" 404 701
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:08 +0800] "GET /MeyBank_Assignment/MeyBank_Home/page/home.jsp HTTP/1.1" 200 2612
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:08 +0800] "GET /MeyBank_Assignment/MeyBank_Home/css/style.css HTTP/1.1" 200 11088
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:08 +0800] "GET /MeyBank_Assignment/assets/bootstrap.min.css HTTP/1.1" 200 140936
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:08 +0800] "GET /MeyBank_Assignment/image/meybank-logo.png HTTP/1.1" 200 43686
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:08 +0800] "GET /MeyBank_Assignment/image/infinite-loop-01.jpg HTTP/1.1" 200 152357
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:09 +0800] "GET /favicon.ico HTTP/1.1" 404 712
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:11 +0800] "GET /MeyBank_Assignment/MeyBank_Home/page/whatwedo.jsp HTTP/1.1" 200 15954
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:11 +0800] "GET /MeyBank_Assignment/MeyBank_Home/script/whatwedo.js HTTP/1.1" 200 813
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:11 +0800] "GET /MeyBank_Assignment/assets/jquery-2.1.0.min.js HTTP/1.1" 200 83614
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:16:15:11 +0800] "GET /MeyBank_Assignment/MeyBank_Home/page/assets/images/line-dec.png HTTP/1.1" 404 784
